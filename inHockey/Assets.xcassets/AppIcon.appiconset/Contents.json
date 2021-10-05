@@ -1,41 +1,49 @@
 {
   "images" : [
     {
+      "filename" : "Снимок экрана 2021-08-27 в 18.11.13.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "Снимок экрана 2021-08-27 в 18.11.25.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
+      "filename" : "Снимок экрана 2021-08-27 в 18.11.35.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "Снимок экрана 2021-08-27 в 18.11.05.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
+      "filename" : "appLogo-1.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "appLogo-2.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "Снимок экрана 2021-08-27 в 18.11.09.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "Снимок экрана 2021-08-27 в 18.08.07.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -86,6 +94,7 @@
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "Снимок экрана 2021-08-27 в 18.05.42.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
