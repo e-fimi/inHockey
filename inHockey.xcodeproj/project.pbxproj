@@ -26,6 +26,7 @@
 		047EC4C22703A8B400E0DE90 /* ProfileProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047EC4BC2703A8B400E0DE90 /* ProfileProtocols.swift */; };
 		047EC4C32703A8B400E0DE90 /* ProfileInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047EC4BD2703A8B400E0DE90 /* ProfileInteractor.swift */; };
 		047EC4C42703A8B400E0DE90 /* ProfileContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047EC4BE2703A8B400E0DE90 /* ProfileContainer.swift */; };
+		049738C42714CC1700A76ABA /* CreateTeamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049738C32714CC1700A76ABA /* CreateTeamViewController.swift */; };
 		04D4634F26CD6A0C00141338 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D4634E26CD6A0C00141338 /* AppDelegate.swift */; };
 		04D4635126CD6A0C00141338 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D4635026CD6A0C00141338 /* SceneDelegate.swift */; };
 		04D4635326CD6A0C00141338 /* AuthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D4635226CD6A0C00141338 /* AuthViewController.swift */; };
@@ -77,6 +78,7 @@
 		047EC4BC2703A8B400E0DE90 /* ProfileProtocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileProtocols.swift; sourceTree = "<group>"; };
 		047EC4BD2703A8B400E0DE90 /* ProfileInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileInteractor.swift; sourceTree = "<group>"; };
 		047EC4BE2703A8B400E0DE90 /* ProfileContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileContainer.swift; sourceTree = "<group>"; };
+		049738C32714CC1700A76ABA /* CreateTeamViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateTeamViewController.swift; sourceTree = "<group>"; };
 		04D4634B26CD6A0C00141338 /* inHockey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = inHockey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04D4634E26CD6A0C00141338 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04D4635026CD6A0C00141338 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 				04F5E97126D048DA002F40DA /* SignUpViewController.swift */,
 				04521FA526EBE2F600FEA303 /* TabBarController.swift */,
 				04521FA326EBE29D00FEA303 /* FunctionalViewController.swift */,
+				049738C32714CC1700A76ABA /* CreateTeamViewController.swift */,
 				04521FA726EBE32100FEA303 /* CommunicationViewController.swift */,
 				047EC47B2702617200E0DE90 /* ImagePickerController.swift */,
 			);
@@ -526,6 +529,7 @@
 				04D4634F26CD6A0C00141338 /* AppDelegate.swift in Sources */,
 				047EC4BF2703A8B400E0DE90 /* ProfilePresenter.swift in Sources */,
 				04521FA626EBE2F600FEA303 /* TabBarController.swift in Sources */,
+				049738C42714CC1700A76ABA /* CreateTeamViewController.swift in Sources */,
 				047EC4C32703A8B400E0DE90 /* ProfileInteractor.swift in Sources */,
 				047EC4C02703A8B400E0DE90 /* ProfileRouter.swift in Sources */,
 				047EC47C2702617200E0DE90 /* ImagePickerController.swift in Sources */,
